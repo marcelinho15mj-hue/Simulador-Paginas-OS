@@ -1,0 +1,10 @@
+bin/
+out/
+.settings/
+.classpath
+.project
+src/oracleJdk-26/
+bin/
+out/
+*.class
+.vscode/
