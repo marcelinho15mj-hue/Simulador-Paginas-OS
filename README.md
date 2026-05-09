@@ -3,9 +3,12 @@
 Este projeto é um simulador de algoritmos de substituição de páginas em memória virtual, desenvolvido para a disciplina de **Sistemas Operacionais** na **UNIFOR**. A aplicação foca em demonstrar de forma visual e prática como diferentes estratégias de gestão de memória impactam a performance do sistema.
 
 ---
+
 ## 👨‍💻 Autores
 - Marcelo Kalsovik Junior - 2413541
 - Bernardo Batista - 2413539
+
+---
 
 ## 🎨 Diferencial: Interface Dark Neon
 Diferente dos simuladores comuns em terminal, este projeto conta com uma interface gráfica (GUI) moderna inspirada no sistema **SDPM**, utilizando:
