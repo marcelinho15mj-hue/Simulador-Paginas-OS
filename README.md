@@ -43,16 +43,22 @@ Simulação padrão com a cadeia `{7, 0, 1, 2, 0, 3, 0, 4}` e **3 quadros**:
 
 ## 🚀 Como Executar
 
-### Pré-requisitos
-- Java JDK 8 ou superior instalado.
+### 📋 Pré-requisitos
+* **Java JDK 8 ou superior:** Certifique-se de que o JDK está instalado.
+* **Variáveis de Ambiente:** O comando `javac` deve estar configurado no seu PATH.
 
-### Passo a Passo
+> **Dica:** Se ao digitar `javac` você receber um erro de "comando não reconhecido", você precisa adicionar a pasta `bin` do seu JDK às Variáveis de Ambiente (Path) do Windows.
+
+### 🛠️ Passo a Passo (Terminal)
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/marcelinho15mj-hue/Simulador-Paginas-OS.git](https://github.com/marcelinho15mj-hue/Simulador-Paginas-OS.git)
 
-2. Compile o projeto:
+2. Entre na pasta do projeto:
+cd Simulador-Paginas-OS
+
+3. Compile os arquivos:
 javac src/*.java -d out
 
-3. Execute a aplicação:
+4. Rode a aplicação:
 java -cp out SimuladorGUI
