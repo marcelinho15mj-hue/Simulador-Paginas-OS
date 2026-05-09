@@ -32,14 +32,14 @@ O simulador compara quatro lógicas fundamentais:
 ---
 
 ## 📊 Resultados e Performance
-Simulação padrão com a cadeia `{7, 0, 1, 2, 0, 3, 0, 4}` e **4 quadros**:
+Simulação padrão com a cadeia `{7, 0, 1, 2, 0, 3, 0, 4}` e **3 quadros**:
 
-| Algoritmo | Faltas de Página | Eficiência |
+| Algoritmo | Faltas de Página | Porcentagem de acerto |
 | :--- | :--- | :--- |
-| **FIFO** | 10 | Baixa |
-| **LRU** | 8 | Alta |
-| **Ótimo** | 8 | Máxima |
-| **Clock** | 9 | Equilibrada |
+| **FIFO** | 7 | 12,5% |
+| **LRU** | 6 | 25% |
+| **Ótimo** | 6 | 25% |
+| **Clock** | 6 | 25% |
 
 ---
 

@@ -143,7 +143,7 @@ class TelaResultados extends JFrame {
         grafico.setDados(f1, f2, f3, f4);
         
         // Tabela com estilo Dark
-        String[] col = {"Algoritmo", "Faltas", "Hit Rate %"};
+        String[] col = {"Algoritmo", "Faltas", "Porcentagem de acerto %"};
         DefaultTableModel model = new DefaultTableModel(col, 0);
         adicionarLinha(model, "FIFO", f1, total);
         adicionarLinha(model, "LRU", f2, total);
