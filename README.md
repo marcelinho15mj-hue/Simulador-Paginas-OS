@@ -51,17 +51,17 @@ Simulação padrão com a cadeia `{7, 0, 1, 2, 0, 3, 0, 4}` e **3 quadros**:
 
 ### 🛠️ Passo a Passo (Terminal)
 1. Clone o repositório:
-   bash
+   ```bash
    git clone [https://github.com/marcelinho15mj-hue/Simulador-Paginas-OS.git](https://github.com/marcelinho15mj-hue/Simulador-Paginas-OS.git)
 
 2. Entre na pasta do projeto:
-bash
+```bash
 cd Simulador-Paginas-OS
 
 3. Compile os arquivos:
-bash
+```bash
 javac src/*.java -d out
 
 4. Rode a aplicação:
-bash
+```bash
 java -cp out SimuladorGUI
