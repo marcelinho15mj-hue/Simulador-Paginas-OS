@@ -16,8 +16,6 @@ Diferente dos simuladores comuns em terminal, este projeto conta com uma interfa
 - **Gráficos Dinâmicos** para comparação de eficiência.
 - **Centralização Absoluta** com `GridBagLayout`.
 
-![Preview da Interface](https://github.com/marcelinho15mj-hue/Simulador-Paginas-OS/blob/main/caminho-para-sua-imagem.png)
-
 ---
 
 ## 🧠 Algoritmos Implementados
